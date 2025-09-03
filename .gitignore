@@ -1,5 +1,2 @@
-*.pro.user
-*.pro.user.*
-*.autosave
-debug/
-
+**/build*
+**/*.pro.user
